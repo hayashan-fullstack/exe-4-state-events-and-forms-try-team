@@ -70,7 +70,7 @@ const App = () => {
           <br />
            { /*<button type="submit" /*onClick={search} style={{ color: 'silver', background: 'gray', fontSize: 15 }}>search</button>  */}
           <br />
-         {<Print persons={namesToShow}/>}
+         <Print persons={namesToShow}/>
         </form>  
       </div>
      
